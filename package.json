@@ -4,17 +4,27 @@
     "description": "Sample project to practice:\r - Node.js\r - Express.js\r - ELM\r - MongoDB",
     "main": "index.js",
     "scripts": {
+        "lint": "standard --fix",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/lukaszgasior/rateapp.git"
     },
-    "keywords": ["nodejs", "expressjs", "elmlang", "mongodb", "mongoosejs"],
+    "keywords": [
+        "nodejs",
+        "expressjs",
+        "elmlang",
+        "mongodb",
+        "mongoosejs"
+    ],
     "author": "Lukasz Gasior",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/lukaszgasior/rateapp/issues"
     },
-    "homepage": "https://github.com/lukaszgasior/rateapp#readme"
+    "homepage": "https://github.com/lukaszgasior/rateapp#readme",
+    "devDependencies": {
+        "standard": "^10.0.3"
+    }
 }
