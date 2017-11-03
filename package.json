@@ -26,5 +26,8 @@
     "homepage": "https://github.com/lukaszgasior/rateapp#readme",
     "devDependencies": {
         "standard": "^10.0.3"
+    },
+    "dependencies": {
+        "express": "^4.16.2"
     }
 }
