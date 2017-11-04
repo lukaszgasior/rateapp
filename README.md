@@ -16,7 +16,9 @@ Sample project to practice:
 ## commands:
 `npm i` - install node packages
 
-`npm run lint` - run standard linter (with autofixes): 
+`npm start` - runs the server 
+
+`npm run lint` - runs standard linter (with autofixes)
 
 ## useful Visual Studio Code plugins
 - [JavaScript Standard Style](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)
