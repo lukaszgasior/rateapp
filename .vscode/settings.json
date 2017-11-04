@@ -8,5 +8,8 @@
     "standard.autoFixOnSave": true,
     "editor.minimap.enabled": false,
     "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "elm.makeCommand": ".\\node_modules\\.bin\\elm-make",
+    "elm.formatCommand": ".\\node_modules\\.bin\\elm-format",
+    "elm.formatOnSave": true
 }

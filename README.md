@@ -18,7 +18,10 @@ Sample project to practice:
 
 `npm start` - runs the server 
 
+`npm run build` - bundles client app
+
 `npm run lint` - runs standard linter (with autofixes)
 
 ## useful Visual Studio Code plugins
 - [JavaScript Standard Style](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)
+- [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
